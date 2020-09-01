@@ -163,6 +163,17 @@ em {
         text-align: center;
     }
 
+    .navbar {
+        padding: 0 0 3rem;
+    }
+
+    h1 {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 2.5rem;
+        line-height: 1.5;
+    }
+
     .big-heading {
         font-size: 2rem;
         line-height: 1.2;
