@@ -1,0 +1,111 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 3.25rem;
+    line-height: 1.5;
+}
+
+
+#title {
+    background-color: #FFF9C6;
+}
+
+.container-fluid{
+
+    padding: 5% 15%;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 6rem;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    letter-spacing: 0.2rem;
+    font-weight: 400;
+    color: black;
+}
+
+.nav-item {
+    padding: 0 7px;
+}
+
+.nav-link {
+    color: black;
+    letter-spacing: 0.2rem;
+    font-size: 0.85rem;
+}
+
+/* Download Buttons */
+
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+
+
+/* Features */
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+h3 {
+    font-weight: 700;
+    padding-bottom: 5%;
+}
+
+p {
+    color: grey;
+}
+
+img {
+    margin-bottom: 1rem;
+}
+
+/* Testimonial  */
+
+#testimonials {
+    background-color: #FFF9C6;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 2.25rem;
+    line-height: 1.5;
+    color: #343A40;
+}
+
+em {
+    color: #343A40;
+    font-weight: 700;
+}
+
+.test-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 15px;
+}
+
+.c-btn {
+    color: #343A40;
+}
