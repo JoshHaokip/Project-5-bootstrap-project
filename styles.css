@@ -109,3 +109,45 @@ em {
 .c-btn {
     color: #343A40;
 }
+
+/* Pricing  */
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+.card-header h3{
+    font-weight: 700;
+    color: #343A40;
+    font-size: 1.6rem;
+}
+
+/* Testimonials  */
+
+#cta {
+    background-color: #FFF9C6;
+    text-align: center;
+    color: #343A40;
+
+}
+
+.big-heading {
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+/* Footer */
+
+#footer {
+    text-align: center;
+}
+
+.social-icon {
+    padding: 2%;
+}
