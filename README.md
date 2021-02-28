@@ -6,7 +6,7 @@
 
 [Bootstrap](https://getbootstrap.com/) is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. 
 
-Check out my Bootstrap Project: www.joshhaokip.com/bootstrap-project/
+Check out my Bootstrap Project: http://www.joshhaokip.com/Project-5-bootstrap-project/
 
 
 # :running: Running the app
@@ -14,7 +14,7 @@ Check out my Bootstrap Project: www.joshhaokip.com/bootstrap-project/
 Clone this repo:
 
 ```
-$ git clone http://www.joshhaokip.com/bootstrap-project/
+$ git clone http://www.joshhaokip.com/Project-5-bootstrap-project/
 ```
 
 Install all dependancies:
